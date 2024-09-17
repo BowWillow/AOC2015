@@ -8,7 +8,7 @@ Part 2 what character position first puts us into the basement.  Answer is 1783
 
 '''
 
-inputFile = 'Day 1 InputTEMP.txt'
+inputFile = 'Day 1 InputTEMP.txt' 
 inputFile = 'Day 1 Input.txt'
 
 line = ''
