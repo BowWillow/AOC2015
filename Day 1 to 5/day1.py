@@ -7,7 +7,7 @@ Part 1: sum string where '(' = +1 and')' = -1 Answer is 232
 Part 2 what character position first puts us into the basement.  Answer is 1783 
 
 '''
-
+# a meaningless comment
 inputFile = 'Day 1 InputTEMP.txt' 
 inputFile = 'Day 1 Input.txt'
 
